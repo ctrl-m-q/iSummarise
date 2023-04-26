@@ -1,0 +1,47 @@
+
+body{
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h1{
+    color:aliceblue;
+    text-align: center;
+    font-size: 40px; 
+    
+}
+h3{
+    color:azure;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+
+}
+
+input{
+    margin-left: 5px;
+    width: 450px;
+    margin:8px 0;
+    padding-bottom: 20px;
+    align-content: center;
+
+    
+}
+
+label{
+    color: rgb(206, 227, 245);
+}
+
+input{
+    border-radius: 10px;
+}
+
+input:focus{
+    border:4px salmon;
+}
+
+output{
+    display:inline;
+    width: 500;
+}
